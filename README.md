@@ -4,7 +4,7 @@
 ### Founder, CEO & CTO @ ZZZ BE DREAM SpA
 **Programmable Credit & Agentic Payment Rails • Post-Quantum Sovereignty • Quantitative Energy Intelligence**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Founder_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcb9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Founder_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcb9/?locale=en-US/)
 [![Rust](https://img.shields.io/badge/Rust-Soroban_%2F_Stylus-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/zzzbedream/VIGENTE-PROJECT)
 [![Stage](https://img.shields.io/badge/Stage-Pre--Seed_R%26D-10B981?style=for-the-badge)](#-foundations-design-partners--investors)
 
@@ -60,5 +60,5 @@ Protocols that extend the same thesis into other execution environments:
 
 ZZZ BE DREAM SpA works with ecosystem foundations (**Stellar**, **Cardano**, privacy & ZK ecosystems), energy design partners and pre-seed DeepTech investors.
 
-* **Contact:** [LinkedIn — Lucas Cifuentes](https://www.linkedin.com/in/lcb9/)
+* **Contact:** [LinkedIn — Lucas Cifuentes](https://www.linkedin.com/in/lcb9/?locale=en-US)
 * **Entity:** ZZZ BE DREAM SpA — Santiago, Chile
